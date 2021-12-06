@@ -8,8 +8,8 @@ My name is Jianing Wang from Shanghai, China.
 
 
 You can find me on 
-[![github](http://i.imgur.com/0o48UoR.png)][1]
-[![facebook](http://i.imgur.com/P3YfQoD.png)][2]
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)][1]
+[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][2]
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][3].
 
 <!-- Links to your social media accounts -->
