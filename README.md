@@ -12,6 +12,10 @@ You can find me on
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)][2]
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][3].
 
+Some of the Coding Languages that I am familiar with:
+[(https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
+[(https://img.shields.io/badge/R-R%20Language-blue)]
+
 <!-- Links to your social media accounts -->
 
 [1]: https://github.com/jonathan18wjn
