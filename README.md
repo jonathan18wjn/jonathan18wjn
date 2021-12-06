@@ -5,10 +5,10 @@
 
 My name is Jianing Wang from Shanghai, China. 
 
-- 🔭 I’m currently a graduate student from Columbia University majoring in Quantitative Methods in the Social Sciences.
-- 📫 How to reach me: jwang3995@columbia.edu
-- ⚡ Fun fact: Favorite Band: Oasis.
--->
+🔭 I’m currently a graduate student from Columbia University majoring in Quantitative Methods in the Social Sciences.
+📫 How to reach me: jwang3995@columbia.edu
+⚡ Fun fact: Favorite Band: Oasis.
+
 
 You can find me on [![Instagram]][1], or on [![LinkedIn]][3].
 
