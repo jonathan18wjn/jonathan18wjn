@@ -1,4 +1,4 @@
-### Hi there 👋
+### What's up everyone! 👋
 
 My name is Jianing Wang from Shanghai, China. 
 
